@@ -1,0 +1,19 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "Node.js测试模块",
+  "main": "1.helloword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanlijianvip/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanlijianvip/Node.js/issues"
+  },
+  "homepage": "https://github.com/yuanlijianvip/Node.js#readme"
+}
